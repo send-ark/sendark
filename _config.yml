@@ -12,20 +12,19 @@
 
 theme                    : "minimal-mistakes-jekyll"
 remote_theme             : "mmistakes/minimal-mistakes@4.21.0" #"mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "plum" #"default" "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "aqua" #"default" "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "AR Tuition"
+title                    : "SENDark"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Anna Reid"
-description              : "Private Tuition and Learning Support"
+name                     : "Andrea Reid-Kelly"
+description              : "SEND consultant"
 title                    : "AR-Tuition"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Anna Reid"
-description              : "An amazing website."
+description              : "Stuff about SENDark"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -98,10 +97,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Anna Reid"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Tutor par excellence."
-  location         : "Sheffield"
+  name             : "Andrea Reid-Kelly"
+  avatar           : "/assets/images/bio-photo.jpg"
+  bio              : "All your SEND needs"
+  location         : "Birmingham"
   email            :
   links:
     - label: "Email"

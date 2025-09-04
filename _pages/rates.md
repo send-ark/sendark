@@ -1,7 +1,7 @@
 ---
 permalink: /rates/
-title: "About Anna"
-excerpt: "Anna is a tutor."
+title: "About Andrea"
+excerpt: "Andrea is a ."
 layouts_gallery:
   - url: /assets/images/mm-layout-splash.png
     image_path: /assets/images/mm-layout-splash.png

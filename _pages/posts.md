@@ -1,7 +1,7 @@
 ---
 permalink: /posts/
 title: "Posts"
-excerpt: "Anna is a tutor."
+excerpt: "Andrea is a ."
 layout: posts
 layouts_gallery:
   - url: /assets/images/mm-layout-splash.png
@@ -17,4 +17,4 @@ last_modified_at: 2021-01-03T10:15:22-04:00
 toc: false
 ---
 
-General musing on tuition and stuff!
+General musing on SEND!

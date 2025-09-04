@@ -1,7 +1,7 @@
 ---
 permalink: /availability/
-title: "About Anna"
-excerpt: "Anna is a tutor."
+title: "About Andrea"
+excerpt: "Andrea is wibble."
 layouts_gallery:
   - url: /assets/images/mm-layout-splash.png
     image_path: /assets/images/mm-layout-splash.png

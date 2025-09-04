@@ -1,7 +1,7 @@
 ---
 permalink: /testimonials/
-title: "About Anna"
-excerpt: "Anna is a tutor."
+title: "About Andrea"
+excerpt: "Andrea is a consultant."
 layouts_gallery:
   - url: /assets/images/mm-layout-splash.png
     image_path: /assets/images/mm-layout-splash.png
@@ -16,5 +16,5 @@ last_modified_at: 2021-01-03T10:15:22-04:00
 toc: false
 ---
 
-* Anna is the best ever
+* Andrea is the best ever
 

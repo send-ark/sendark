@@ -1,7 +1,7 @@
 ---
 permalink: /about/
-title: "About Anna"
-excerpt: "Anna is a tutor."
+title: "About Andrea"
+excerpt: "Andrea is a special educational needs consultant."
 layouts_gallery:
   - url: /assets/images/mm-layout-splash.png
     image_path: /assets/images/mm-layout-splash.png

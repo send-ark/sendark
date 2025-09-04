@@ -16,5 +16,4 @@ last_modified_at: 2021-01-03T10:15:22-04:00
 toc: false
 ---
 
-* 1 to 1 sessions: £25/hr
-* Essay editing: £10 per 1000 words
+*Cheap as chips: £25/hr

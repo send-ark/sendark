@@ -53,6 +53,12 @@
   // z-index: 20;
 }
 
+.site-title img {
+  max-height: 60px; /* Adjust size as needed */
+  width: auto;
+  vertical-align: middle;
+}
+
 .site-subtitle {
   display: block;
   font-size: $type-size-8;

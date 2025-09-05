@@ -16,4 +16,4 @@ last_modified_at: 2021-01-03T10:15:22-04:00
 toc: false
 ---
 
-*Cheap as chips: £25/hr
+*How much you charge for stuff

@@ -1,7 +1,7 @@
 ---
 permalink: /rates/
-title: "About Andrea"
-excerpt: "Andrea is a ."
+title: "Rates"
+excerpt: "How much you charge for stuff"
 layouts_gallery:
   - url: /assets/images/mm-layout-splash.png
     image_path: /assets/images/mm-layout-splash.png

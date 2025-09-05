@@ -1,7 +1,7 @@
 ---
 permalink: /testimonials/
-title: "About Andrea"
-excerpt: "Andrea is a consultant."
+title: "Testimonials"
+excerpt: "All the lovely things that people have said about you"
 layouts_gallery:
   - url: /assets/images/mm-layout-splash.png
     image_path: /assets/images/mm-layout-splash.png

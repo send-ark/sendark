@@ -1,7 +1,7 @@
 ---
 permalink: /availability/
-title: "About Andrea"
-excerpt: "Andrea is wibble."
+title: "Availability"
+excerpt: "I'm free."
 layouts_gallery:
   - url: /assets/images/mm-layout-splash.png
     image_path: /assets/images/mm-layout-splash.png

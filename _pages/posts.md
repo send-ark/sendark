@@ -1,7 +1,7 @@
 ---
 permalink: /posts/
 title: "Posts"
-excerpt: "Andrea is a ."
+excerpt: "Some posts about stuff you've done, do or interested in."
 layout: posts
 layouts_gallery:
   - url: /assets/images/mm-layout-splash.png

@@ -16,13 +16,13 @@ minimal_mistakes_skin    : "aqua" #"default" "air", "aqua", "contrast", "dark", 
 
 # Site Settings
 locale                   : "en-US"
-title                    : "SENDark"
+title                    : ""
 title_image              : /assets/images/SendArk-logo-Alt-Blue.jpg
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Andrea Reid-Kelly"
 description              : "SEND consultant"
-title                    : "SENDark"
+title                    : ""
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 description              : "Stuff about SENDark"

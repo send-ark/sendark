@@ -2,8 +2,8 @@
 main:
   - title: "Services"
     url: /services/
-  - title: "Resources and links"
-    url: /resources_links/
+  - title: "Resources"
+    url: /resources/
   - title: "Blog"
     url: /blog/
   - title: "Testimonials"
@@ -12,5 +12,3 @@ main:
     url: /contact/
   - title: "Policies"
     url: /policies/    
-  - title: "Terms of Service"
-    url: /terms_service/        

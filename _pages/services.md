@@ -1,6 +1,6 @@
 ---
-permalink: /about/
-title: "About Andrea"
+permalink: /services/
+title: "Services"
 excerpt: "Andrea is a special educational needs consultant."
 layouts_gallery:
   - url: /assets/images/mm-layout-splash.png

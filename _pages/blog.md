@@ -1,7 +1,7 @@
 ---
-permalink: /rates/
-title: "Rates"
-excerpt: "How much you charge for stuff"
+permalink: /blog/
+title: "Blog"
+excerpt: "I'm free."
 layouts_gallery:
   - url: /assets/images/mm-layout-splash.png
     image_path: /assets/images/mm-layout-splash.png
@@ -16,4 +16,4 @@ last_modified_at: 2021-01-03T10:15:22-04:00
 toc: false
 ---
 
-*How much you charge for stuff
+**This page is under construction :-)**

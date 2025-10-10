@@ -1,7 +1,7 @@
 ---
-permalink: /availability/
-title: "Availability"
-excerpt: "I'm free."
+permalink: /resources_links/
+title: "Resources and Links"
+excerpt: "How much you charge for stuff"
 layouts_gallery:
   - url: /assets/images/mm-layout-splash.png
     image_path: /assets/images/mm-layout-splash.png
@@ -16,4 +16,4 @@ last_modified_at: 2021-01-03T10:15:22-04:00
 toc: false
 ---
 
-**This page is under construction :-)**
+*How much you charge for stuff

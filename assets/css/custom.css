@@ -1,7 +1,7 @@
-body.home .page__title {
+.page__hero--overlay .page__title {
   color: #00c4cc; /* Replace with your desired color */
 }
 
-body.home .page__lead {
+.page__hero--overlay .page__lead {
   color: #00c4cc; /* Replace with your desired color */
 }

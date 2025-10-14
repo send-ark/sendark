@@ -1,7 +1,8 @@
 ---
 permalink: /blog/
 title: "Blog"
-excerpt: "I'm free."
+excerpt: "Some posts about stuff you've done, do or interested in."
+layout: posts
 layouts_gallery:
   - url: /assets/images/mm-layout-splash.png
     image_path: /assets/images/mm-layout-splash.png
@@ -16,4 +17,4 @@ last_modified_at: 2021-01-03T10:15:22-04:00
 toc: false
 ---
 
-**This page is under construction :-)**
+Some posts about stuff you've done, do or interested in.

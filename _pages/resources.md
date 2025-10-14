@@ -1,5 +1,5 @@
 ---
-permalink: /resources_links/
+permalink: /resources/
 title: "Resources and Links"
 excerpt: "How much you charge for stuff"
 layouts_gallery:

@@ -201,10 +201,12 @@ body {
     }
 
     .page__lead {
+      color: aqua !important;
       max-width: $medium;
     }
 
     .page__title {
+      color: aqua !important;
       font-size: $type-size-2;
 
       @include breakpoint($small) {

@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "aqua" #"default" "air", "aqua", "contrast", "dark", 
 # Site Settings
 locale                   : "en-US"
 title                    : ""
-title_image              : /assets/images/SendArk-logo.png
+title_image              : /assets/images/sendark-logo.png
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Andrea Reid-Kelly"

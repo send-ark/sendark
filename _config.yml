@@ -100,7 +100,7 @@ analytics:
 # Site Author
 author:
   name             : "Andrea Reid-Kelly"
-  avatar           : "/assets/images/profile-pic.jpg" #path to image in assets
+  avatar           : "/assets/images/head-pic.png" #path to image in assets
   bio              : "All your SEND needs"
   location         : "Birmingham"
   email            :

@@ -6,10 +6,12 @@
 
 .page__hero .page__lead {
   color: #00c4cc !important;
+  width: 60%;
 }
 
 .page__title {
   color: #00c4cc !important;
+  width: 60%;
 }
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin

@@ -4,17 +4,18 @@
 
 @charset "utf-8";
 
-.page__hero .page__lead {
-  color: #00c4cc !important;
-  width: 50% !important;
-  font-size: 1em !important;
-}
-
-.page__hero .page__title {
-  font-size: 2em !important;
-  color: #00c4cc !important;
-  width: 50% !important;
-}
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+.page__lead {
+  color: #00c4cc !important;
+  width: 70% !important;
+  font-size: 1em !important;
+}
+
+#page-title {
+  font-size: 2em !important;
+  color: #00c4cc !important;
+  width: 60% !important;
+}
